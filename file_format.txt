@@ -1,0 +1,9 @@
+Summary of File Order
+1. Steps
+First line: Random Seed
+Second Line: Total Steps Recorded
+And than from the 3rd line till the end- <iteration> <action>
+
+2.Result
+First Line: counter of times that play the level.
+and than for each line: <iteration> <ResultValue> <score>
