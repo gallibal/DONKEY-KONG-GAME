@@ -1,4 +1,4 @@
-# Donkey Kong - ASCII Game
+#Donkey Kong - ASCII Game
 
 A terminal-based ASCII implementation of the classic Donkey Kong game.
 
